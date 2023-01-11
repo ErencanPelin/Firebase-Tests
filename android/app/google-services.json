@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "844415759840",
+    "project_id": "pillowjournal-7fc9b",
+    "storage_bucket": "pillowjournal-7fc9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844415759840:android:74394363c7f601b5456785",
+        "android_client_info": {
+          "package_name": "com.pillowsoftworks.pillowjournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844415759840-u8esbpgeg4ba5sb27bnoc5e0m5bgnllr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBP0NiqybU-NKenCLcWhFC7uOKSVikbJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844415759840-u8esbpgeg4ba5sb27bnoc5e0m5bgnllr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "844415759840-esk2im20fgtheoo71i3seh7n1pmrh6mj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pillowsoftworks.pillowjournal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
